@@ -1,4 +1,4 @@
-# PixelArt-Maker
+# Console-PixelArt-Maker
 - Numbers and Turkish characters are not supported.
 - Only characters between a and z are supported.
 
